@@ -1,6 +1,5 @@
-# 💫 About Me:
-I like understanding how things work and how they break — that's what drew me to cybersecurity. Now I spend my time digging through logs, building home labs, and learning how to defend what others try to exploit.
-
+# 🧑‍💻  About Me:
+I like understanding how things work and how they break that's what drew me to cybersecurity. I'm a Master's student building hands-on skills in security operations, from log analysis to home lab environments.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ayaan-sec) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayaansayyad05@gmail.com) 
@@ -15,4 +14,4 @@ I like understanding how things work and how they break — that's what drew me 
 ---
 [![](https://komarev.com/ghpvc/?username=Ansd24&icon=3&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
